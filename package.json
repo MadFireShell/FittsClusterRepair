@@ -1,0 +1,25 @@
+{
+  "name": "fittsclusterrepair",
+  "version": "1.0.0",
+  "description": "FittsClusterRepair",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadFireShell/FittsClusterRepair.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MadFireShell/FittsClusterRepair/issues"
+  },
+  "homepage": "https://github.com/MadFireShell/FittsClusterRepair#readme",
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
